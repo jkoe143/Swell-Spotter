@@ -1,0 +1,47 @@
+[
+  {
+    "lat": 32.0,
+    "lon": -126.0,
+    "wave_height": 1.2
+  },
+  {
+    "lat": 25.0,
+    "lon": -70.0,
+    "wave_height": 2.3
+  },
+  {
+    "lat": -15.0,
+    "lon": -150.0,
+    "wave_height": 0.8
+  },
+  {
+    "lat": 10.0,
+    "lon": 150.0,
+    "wave_height": 3.5
+  },
+  {
+    "lat": -30.0,
+    "lon": 40.0,
+    "wave_height": 1.7
+  },
+  {
+    "lat": 45.0,
+    "lon": -30.0,
+    "wave_height": 2.9
+  },
+  {
+    "lat": -20.0,
+    "lon": 120.0,
+    "wave_height": 0.6
+  },
+  {
+    "lat": -40.0,
+    "lon": -10.0,
+    "wave_height": 1.4
+  },
+  {
+    "lat": -55.0,
+    "lon": 60.0,
+    "wave_height": 2.1
+  }
+]

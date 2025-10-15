@@ -1,0 +1,8 @@
+flask
+flask-cors
+pillow
+xarray
+numpy
+pandas
+mercantile
+copernicusmarine
