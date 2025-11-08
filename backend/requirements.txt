@@ -1,0 +1,13 @@
+flask
+flask-cors
+pillow
+xarray
+numpy
+pandas
+mercantile
+copernicusmarine
+pathfinding
+scikit-image
+mapbox-vector-tile
+shapely
+torch
