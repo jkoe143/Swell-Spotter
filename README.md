@@ -1,4 +1,4 @@
-<h1 align="center">Swell Spotter 🌊</h1>
+<h1 align="center">Wave Spotter</h1>
 
 <img width="2540" height="1251" alt="image" src="https://github.com/user-attachments/assets/6b3a8369-83da-41cf-8461-ef1ba1e0324f" />
 <img width="2537" height="1252" alt="image" src="https://github.com/user-attachments/assets/ad6a1779-f86a-40d6-be94-3ef7ee9862f0" />
