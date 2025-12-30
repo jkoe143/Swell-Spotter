@@ -1,4 +1,4 @@
-# Wave Spotter
+# Swell Spotter
 
 A web application for visualizing ocean wave conditions and generating safe maritime routes.
 
